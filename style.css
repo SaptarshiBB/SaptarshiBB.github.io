@@ -79,7 +79,7 @@ section {
 }
 
 body {
-  background: url(backgroundimage.jpg);
+  background: url(resources/backgroundimage.jpg);
   background-size: cover;
   background-position: center;
 }
